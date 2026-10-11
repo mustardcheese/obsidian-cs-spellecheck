@@ -1,0 +1,9 @@
+{
+  "id": "smart-spellcheck",
+  "name": "Smart Spellcheck",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Skips spellcheck on technical token shapes: words with digits (ROB1, x86) and ALL-CAPS acronyms (IPC, ROBs).",
+  "author": "Elliot",
+  "isDesktopOnly": false
+}
