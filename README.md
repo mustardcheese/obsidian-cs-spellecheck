@@ -2,7 +2,7 @@
 
 Obsidian plugin that stops spellcheck from flagging technical tokens in CS notes:
 
-- words containing a digit: `ROB1`, `ROB100`, `x86`, `0xFFFF`, `ext4`
+- words containing a digit: `x86`, `0xFFFF`, `ext4` etc.
 - ALL-CAPS acronyms (with optional plural/possessive): `IPC`, `TCP`, `ROBs`, `NIC's`
 - ~1300 CS terms in `words.txt` (architecture, OS, networking, algorithms, theory, compilers, databases, ML, security): `superscalar`, `Tomasulo's`, `mutexes`, `dendrogram`
 
